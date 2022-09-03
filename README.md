@@ -1,5 +1,5 @@
 # Graphville Citizens
-Collaboration place of Graphville citizens.
+Collaboration hub of [Graphville](https://www.graphville.com/) - educational platform for beginners to learn Cypher and Neo4j basics.
 
 ![Graphville](https://www.graphville.com/img/s1e1/s1e1_cover.png)
 
