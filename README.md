@@ -1,7 +1,9 @@
 # Graphville Citizens
-Place of collaboration of Graphville citizens.
+Collaboration place of Graphville citizens.
 
-Who are Graphville citizens? All of software engineers, modern creators, fast learners, and graph enthusiasts, all who like Grapeville. Let's chat, let's share thoughts, let's collab here!
+![Graphville](https://www.graphville.com/img/s1e1/s1e1_cover.png)
+
+Who are the citizens of Graphville? All software engineers, modern creators, fast learners and graph enthusiasts, all of those, who visited Graphville and learn something new. Let's communicate, share thoughts, let's collab here!
 
 ## Collaboration
 
@@ -20,5 +22,5 @@ Use `question` label to ask me anything about project, indie development or Grap
 Describe the issue and add `bug` label for any unexpected behavior of Graphville website. Attach screenshot for better understanding.
 
 ### Author
-Let me know with issue of `author` label, if you want to help Graphville to create new materials.
+Let me know with issue of `author` label, if you are interested to create new learning materials.
 
