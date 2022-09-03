@@ -1,5 +1,7 @@
-# graphville-citizens
-Place to collaborate with Graphville Citizens 
+# Graphville Citizens
+Place to collaborate with Graphville Citizens.
+
+Who are Graphville Citizens? All of software engineers, modern creators, fast learners, and graph enthusiasts, all who like Grapeville. Let's chat, let's share thoughts, let's collab here!
 
 ## Collaboration
 
