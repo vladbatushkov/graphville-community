@@ -1,6 +1,6 @@
 ---
 name: Avatar Request
-about: I want to have a Graphville-style avatar
+about: I want a Graphville-style avatar (social media profile picture)
 title: ''
 labels: avatar
 assignees: ''
